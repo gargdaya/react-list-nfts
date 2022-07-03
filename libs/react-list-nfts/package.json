@@ -1,0 +1,23 @@
+{
+  "name": "react-list-nfts",
+  "version": "0.0.2",
+  "license": "MIT",
+  "keywords": [
+    "NFT",
+    "Ethereum",
+    "web3",
+    "React",
+    "Next"
+  ],
+  "contributors": [
+    {
+      "name": "Dayanand Garg",
+      "email": "dayanadgarg800@gmail.com"
+    },
+    {
+      "name": "Son Singh"
+    }
+  ],
+  "bugs": "https://github.com/gargdaya/react-list-nfts/issues",
+  "repository": "https://github.com/gargdaya/react-list-nfts"
+}
