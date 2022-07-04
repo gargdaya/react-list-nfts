@@ -51,4 +51,4 @@ return (
 
 ```
 ### Note
-Feel Free to report issue/github on github
+Feel Free to report issue/feedback on github
